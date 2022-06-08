@@ -1,0 +1,7 @@
+required packages:
+
+beautifulsoup4
+json
+nltk (nltk.vadar_lexicon, nltk.punkt)
+statistics
+plotly
